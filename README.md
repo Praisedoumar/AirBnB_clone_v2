@@ -1,7 +1,7 @@
 This project was done by 
 Adigun Praise Oluwafikayo (Adigunpraiseoluwafikayo@gmail.com)
 And 
-Adakole Stephen (adakolestephen09@gmail.com)
+Adakole Stephen Owochoyale (adakolestephen09@gmail.com)
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
